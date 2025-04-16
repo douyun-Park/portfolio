@@ -134,7 +134,9 @@ NAVBAR
 
 .navbar-brand {
 	height: 90px;
-	padding: 23px;
+	padding: 23px 15px;
+	display: flex;
+	align-items: center;
 }
 
 .navbar-brand img {
