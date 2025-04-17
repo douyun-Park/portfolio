@@ -315,7 +315,7 @@ PORTFOLIO SECTION
 
 .project {
 	position: relative;
-	width: 320px;
+	width: 620px;
 	height: 555px;
 	overflow: hidden;
 	outline: none;
@@ -333,7 +333,7 @@ PORTFOLIO SECTION
 .project .description {
 	position: absolute;
 	width: 100%;
-	height: 370px;
+	height: 70%;
 	padding: 61px 33px 54px;
 	background: #564C3B;
 	color: #ffffff;
